@@ -1,0 +1,2 @@
+export 'package:flutter_socket_io/infrastructure/navigation/bindings/controllers/chat_screen.controller.binding.dart'; 
+export 'package:flutter_socket_io/infrastructure/navigation/bindings/controllers/home.controller.binding.dart'; 
